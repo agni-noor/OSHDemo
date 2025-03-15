@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+.env/
+.env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and debugging
+*.log
+*.out
+*.err
+logs/
+debug.log
+
+# Environment variables
+.env
+*.env
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# MyPy type checking cache
+.mypy_cache/
+
+# pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+*.cover
+
+# SQLite database files
+*.sqlite3
+*.db
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Generated documentation
+docs/_build/
