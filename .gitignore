@@ -56,12 +56,12 @@ coverage.xml
 
 # Environments
 .env
-.venv
+.env
 env/
-venv/
+env/
 ENV/
 env.bak/
-venv.bak/
+env.bak/
 
 # Spyder project settings
 .spyderproject
@@ -123,7 +123,7 @@ celerybeat.pid
 *.env
 
 # virtualenv
-*.venv
+*.env
 
 # Python virtual environment
 env/
